@@ -1,0 +1,3 @@
+- 👋 olá, eu sou aleff rodrigues.
+- 👀 estou buscando oportunidade na área de front end.
+- ⚡ sou dedicado, trabalho bem em equipe, criativo e esforçado.
